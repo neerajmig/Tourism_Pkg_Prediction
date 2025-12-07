@@ -3,7 +3,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-from huggingface_hub import hf_hub_download # Import hf_hub_download
+from huggingface_hub import hf_hub_download 
 
 # ---------------------------------------------------
 # Load trained tourism model
